@@ -30,7 +30,7 @@ The following 10 models are trained to classify patients in low risk and high ri
 7. Logistic Regression 
 8. Decision Tree 
 9. Random Forest 
-10. Stacking Model which uses KNN, XGBoost and Logistic Regression as the estimators and GradientBoosting as the final model.
+10. Stacking Model which uses KNN, AdaBoost and Random Forest as the estimators and GradientBoosting as the final model.
 
 The models are evaluated using confusion matrices and accuracy scores. 
 Finally, new predictions are made on the model having the highest accuracy. 
