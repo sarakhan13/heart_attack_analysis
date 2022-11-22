@@ -34,3 +34,6 @@ The following 10 models are trained to classify patients in low risk and high ri
 
 The models are evaluated using confusion matrices and accuracy scores. 
 Finally, new predictions are made on the model having the highest accuracy. 
+
+The Accuracy Scores for all models when using a test set is visualized below:
+![Accuracy Scores (Test Set)](https://user-images.githubusercontent.com/66909196/203338490-6b1c7941-2103-4220-9015-8ab8529f3b57.png)
